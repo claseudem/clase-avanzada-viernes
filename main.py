@@ -1,7 +1,1 @@
-import yfinance
-
-def main():
-    pass
-
-if __name__ == "__main__":
-    main()
+import pandas as pd
