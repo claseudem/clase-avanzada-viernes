@@ -1,3 +1,3 @@
 import yfinance as yf
 
-print(yf.download("F"))
+print(yf.download("sdjkfsdjkhf"))
